@@ -1,6 +1,6 @@
 pipeline{
 environment {
-registry = "liammoyna/pythonapp"
+registry = "liammoyna/restapp"
 registryCredentials = "dockerhub_id"
 dockerImage = ""
     }
