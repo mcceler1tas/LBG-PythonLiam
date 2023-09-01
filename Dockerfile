@@ -6,4 +6,4 @@ RUN pip install Flask
 
 EXPOSE 5000
 
-ENTRYPOINT ["python", "lgb.py"]
+ENTRYPOINT ["python", "lbg.py"]
