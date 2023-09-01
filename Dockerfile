@@ -6,4 +6,4 @@ RUN pip install Flask
 
 EXPOSE 5000
 
-CMD python start
+ENTRYPOINT ["python", "app.py"]
